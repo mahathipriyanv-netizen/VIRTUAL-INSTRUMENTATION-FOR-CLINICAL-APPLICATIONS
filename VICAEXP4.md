@@ -6,7 +6,7 @@ To find the sum of 'n' natural numbers using a WHILE loop in LabVIEW.
 ---
 
 ##  Tools Required
-- National Instruments LabVIEW (any version supporting basic VI creation)
+- National Instruments LabVIEW (any version supporting basic VI creation) 
 
 ---
 
