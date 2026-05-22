@@ -1,4 +1,4 @@
-#  Experiment 2 – Boolean Operations using LabVIEW
+#  Experiment 2 – Boolean Operations using LabVIEW  
 
 ##  Aim
 To perform Boolean operations (AND, OR, XOR, NOT, NAND) using LabVIEW.
