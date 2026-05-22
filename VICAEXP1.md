@@ -3,7 +3,7 @@
 ##  Aim
 To perform basic arithmetic operations (Addition, Subtraction, Multiplication, Division) using LabVIEW.
 
----
+--- 
 
 ##  Tools Required
 - National Instruments LabVIEW (any version supporting basic VI creation)
