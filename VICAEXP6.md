@@ -1,7 +1,7 @@
 #  Experiment 6 – Array Maximum and Minimum in LabVIEW
 
 ##  Aim
-To find the maximum and minimum values (and their indices) from an array using LabVIEW.
+To find the maximum and minimum values (and their indices) from an array using LabVIEW. 
 
 ---
 
