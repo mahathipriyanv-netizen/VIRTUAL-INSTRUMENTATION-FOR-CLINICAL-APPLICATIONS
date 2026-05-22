@@ -1,7 +1,7 @@
 #  Experiment 1 – Basic Arithmetic Operations using LabVIEW
 
 ##  Aim
-To perform basic arithmetic operations (Addition, Subtraction, Multiplication, Division) using LabVIEW.
+To perform basic arithmetic operations (Addition, Subtraction, Multiplication, Division) using LabVIEW. 
 
 --- 
 
