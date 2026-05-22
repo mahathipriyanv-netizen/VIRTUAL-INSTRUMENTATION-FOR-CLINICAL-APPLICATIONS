@@ -1,7 +1,7 @@
 #  Experiment 3 – Sum of 'n' Numbers using FOR Loop in LabVIEW
 
 ##  Aim
-To find the sum of 'n' numbers using a FOR loop in LabVIEW.
+To find the sum of 'n' numbers using a FOR loop in LabVIEW. 
 
 ---
 
