@@ -1,4 +1,4 @@
-#  Experiment 5 – Sorting Even Numbers using WHILE Loop in an Array in LabVIEW
+#  Experiment 5 – Sorting Even Numbers using WHILE Loop in an Array in LabVIEW 
 
 ##  Aim
 To sort even numbers from a given set of numbers using a WHILE loop in an array in LabVIEW.
